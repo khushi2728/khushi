@@ -1,1 +1,2 @@
 # khushi
+Author ~ khushi singh
